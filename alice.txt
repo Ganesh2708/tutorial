@@ -1,3 +1,2 @@
-Hello,
-How is your learning,
+How is your learning?,
 hope everything goes well
